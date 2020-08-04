@@ -1,0 +1,16 @@
+.a_box {
+    overflow: hidden;
+    border: 1px solid #97c0ff;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 34px;
+    font-weight: normal;
+}
+
+.main_cont {
+    margin: 15px;
+}
+
+.left_cont {
+    margin-right: 15px;
+}
